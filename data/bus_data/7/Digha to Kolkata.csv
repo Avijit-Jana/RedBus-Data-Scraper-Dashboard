@@ -1,0 +1,201 @@
+bus_route_name,bus_route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,price,seat_availability
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Express Line,Volvo 9600 Multi Axle Semi-Sleeper (2+2),13:45,04h 30m,18:15,4.6,349,46
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Greenline,Volvo A/C Seater (2+2),13:30,04h 45m,18:15,4.5,400,43
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Express Line,Volvo 9600 A/C Seater (2+2),10:25,04h 55m,15:20,4.3,359,42
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),13:30,04h 55m,18:25,4.3,400,25
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Greenline,Volvo A/C Seater (2+2),13:40,04h 45m,18:25,4.3,400,43
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),09:50,05h 30m,15:20,4.2,450,37
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),13:45,05h 10m,18:55,4.2,400,40
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Mayuri Express,AC Seater (2+2),10:30,05h 00m,15:30,4.0,420,35
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Mayuri Express,A/C Seater (2+3),11:15,04h 45m,16:00,4.0,300,38
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),13:00,04h 30m,17:30,3.9,474,51
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater Push Back (2+3),04:30,04h 30m,09:00,3.6,287,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater Push Back (2+3),11:25,04h 15m,15:40,3.6,342,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),09:30,04h 45m,14:15,3.3,302,51
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Monikanchan Bus Service,A/C Seater (2+3),13:30,04h 15m,17:45,3.9,375,52
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Maa Chandi Travels,A/C Seater / Sleeper (2+2),14:30,04h 40m,19:10,3.7,400,19
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(Santosh),AC Seater (2+3),11:30,04h 10m,15:40,4.2,352,28
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),22:45,05h 25m,04:10,3.8,320,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),20:00,05h 35m,01:35,3.4,302,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sneha Gold Bus Service,A/C Seater (2+3),16:30,05h 00m,21:30,4.3,300,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(SNEHA GOLD),AC Seater (2+3),16:40,04h 30m,21:10,3.2,352,46
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Maa Chandi Travels,A/C Seater / Sleeper (2+2),12:35,04h 40m,17:15,3.4,400,19
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Haimanti Bus Service,AC Seater (2+3),05:40,04h 50m,10:30,3.3,230,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,AC Seater (2+3),12:15,04h 25m,16:40,4.0,370,56
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Monikanchan Bus Service,A/C Seater (2+3),12:20,04h 20m,16:40,3.9,375,23
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),18:10,05h 05m,23:15,2.7,302,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Monikanchan Bus Service,A/C Seater (2+3),12:50,04h 10m,17:00,3.1,375,49
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,A/C Seater / Sleeper (2+2),12:35,05h 00m,17:35,3.6,420,57
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,AC Seater (2+3),11:21,04h 39m,16:00,4.2,320,46
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (SONAMONI),AC Seater (2+3),06:15,04h 30m,10:45,3.5,320,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Atithi),A/C Seater Push Back (2+3),12:15,04h 30m,16:45,3.0,352,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Atithi),A/C Seater (2+3),10:45,05h 00m,15:45,3.4,399,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater Push Back (2+3),10:55,03h 50m,14:45,3.2,324,28
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:00,04h 45m,03:45,2.9,399,38
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Monikanchan Bus Service,Non AC Seater (2+3),11:40,04h 35m,16:15,3.8,215,47
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),22:45,05h 25m,04:10,2.9,320,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Jackson),AC Seater (2+2),13:40,04h 50m,18:30,3.2,370,24
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Pariseba(Samanta),AC Seater (2+3),09:10,04h 35m,13:45,3.1,257,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Haimanti Bus Service,AC Seater (2+3),09:50,05h 25m,15:15,3.3,270,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Haimanti),A/C Seater Push Back (2+3),06:00,04h 30m,10:30,2.8,399,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba (Santosh),AC Seater (2+3),10:55,04h 35m,15:30,3.0,257,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Snemita),AC Seater (2+3),11:45,04h 40m,16:25,2.5,320,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (ANGEL),AC Seater (2+2),10:15,04h 30m,14:45,3.8,420,21
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Maa Gouri),AC Seater (2+3),04:57,04h 28m,09:25,3.0,370,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(SHINJINI),A/C Seater (2+3),16:00,04h 30m,20:30,2.3,320,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),15:20,04h 35m,19:55,2.4,370,25
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Maity Motor),A/C Seater Push Back (2+3),13:05,04h 25m,17:30,2.5,352,40
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,AC Seater (2+3),11:35,04h 50m,16:25,2.9,320,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express,AC Seater (2+3),11:35,04h 50m,16:25,2.9,370,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travels,A/C Seater / Sleeper (2+2),18:35,04h 25m,23:00,2.1,475,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(Santosh),AC Seater (2+3),11:30,04h 40m,16:10,2.7,257,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Shinjini),AC Seater (2+3),23:35,04h 10m,03:45,2.6,420,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba,AC Seater (2+3),10:50,04h 30m,15:20,2.9,352,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Subhadip Travels,A/C Executive (2+3),14:00,04h 55m,18:55,,399,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Subhadip Travels,A/C Seater (2+3),08:05,04h 45m,12:50,,276,66
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Subhadip Travels,A/C Executive (2+3),09:40,05h 00m,14:40,,276,46
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Subhadip Travels,A/C Executive (2+3),14:55,04h 45m,19:40,,399,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Subhadip Travels,Non AC Seater (2+3),08:50,04h 50m,13:40,,399,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Tara Ma Paribahan,Non AC Seater (2+3),13:00,05h 00m,18:00,,220,54
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Subhadip Travels,A/C Executive (2+3),12:20,04h 40m,17:00,,399,60
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Tara Ma Paribahan,Non AC Seater (2+3),04:55,05h 05m,10:00,,220,54
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Subhadip Travels,A/C Seater (2+3),10:45,04h 45m,15:30,,285,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Samanta Travels,A/C Seater (2+3),09:00,04h 40m,13:40,3.5,300,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,Non AC Seater (2+3),10:30,04h 30m,15:00,2.3,230,56
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),11:15,04h 45m,16:00,1.2,243,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(Santosh),A/C Seater Push Back (2+3),23:00,05h 20m,04:20,2.2,352,25
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),11:45,04h 35m,16:20,1.4,243,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Angel),AC Seater (2+3),13:50,04h 40m,18:30,1.8,320,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+2),10:20,04h 50m,15:10,1.6,302,18
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (SHINJINI),A/C Seater (2+3),11:15,04h 30m,15:45,2.4,320,23
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),06:25,04h 45m,11:10,1.4,302,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),16:00,04h 30m,20:30,2.1,370,25
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),07:20,05h 04m,12:24,2.5,345,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba (Manikanchan),AC Seater (2+3),12:20,04h 25m,16:45,2.1,352,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Parameswar),AC Seater (2+2),10:20,04h 20m,14:40,2.2,380,38
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),06:40,04h 50m,11:30,1.4,385,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba,A/C Seater Push Back (2+3),12:30,04h 45m,17:15,1.3,352,25
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Sagar Kanya),AC Seater (2+3),10:20,04h 35m,14:55,2.0,370,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),21:00,06h 00m,03:00,2.0,302,15
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Maa Gauri Gold),AC Seater (2+3),04:57,04h 33m,09:30,1.8,320,25
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Tejas),A/C Executive (2+3),14:20,04h 30m,18:50,2.2,352,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sree Jagannath Travels,A/C Seater Push Back (2+3),14:10,04h 50m,19:00,1.4,309,29
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,The Joy Ride,A/C Seater / Sleeper (2+2),21:15,05h 15m,02:30,3.7,650,61
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Samanta Travels,A/C Seater (2+3),14:30,04h 50m,19:20,3.1,300,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater (2+3),08:30,04h 20m,12:50,3.5,249,29
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Angel),AC Seater (2+3),13:50,04h 40m,18:30,4.4,370,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater Push Back (2+3),11:30,04h 25m,15:55,3.5,323,28
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(SANTOSH),A/C Seater / Sleeper (2+2),12:05,04h 35m,16:40,3.2,266,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater Push Back (2+3),10:30,05h 00m,15:30,3.2,249,25
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,AC Seater (2+2),12:05,04h 10m,16:15,3.5,324,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Snemita),AC Seater (2+3),11:45,04h 40m,16:25,3.4,370,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(Santosh),AC Seater (2+3),13:30,04h 35m,18:05,3.6,257,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Maa Chandi),A/C Executive (2+3),12:10,04h 35m,16:45,3.2,370,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Maa Gauri),AC Seater (2+3),05:45,04h 25m,10:10,3.2,370,15
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Jackson),AC Seater (2+2),13:40,04h 35m,18:15,3.2,270,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater Push Back (2+3),10:56,04h 19m,15:15,3.0,249,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,AC Seater (2+3),11:10,04h 25m,15:35,3.3,370,11
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Pariseba(Santosh),AC Seater (2+3),08:40,04h 40m,13:20,3.0,257,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Atithi),A/C Seater Push Back (2+3),13:35,04h 15m,17:50,3.0,399,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater Push Back (2+3),13:30,04h 35m,18:05,3.2,259,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Maa Gouri Gold),A/C Seater (2+3),03:05,04h 25m,07:30,3.5,320,19
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Vishwakarma Travels,AC Seater (2+3),13:45,04h 50m,18:35,4.3,380,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sree Jagannath Travels,A/C Seater Push Back (2+3),15:00,05h 00m,20:00,3.4,309,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(Santosh),A/C Seater Push Back (2+3),23:30,05h 00m,04:30,3.1,352,45
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Adhikary Paribahan,A/C Seater Push Back (2+3),07:55,04h 20m,12:15,2.9,229,28
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Pariseba(Samanta),A/C Seater Push Back (2+3),14:45,04h 35m,19:20,2.3,257,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba (Santosh),AC Seater (2+3),10:30,04h 40m,15:10,3.1,257,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Maa Gouri),AC Seater (2+3),05:40,04h 35m,10:15,2.8,320,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Shinjini),AC Seater (2+2),11:05,04h 45m,15:50,2.8,380,28
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,A/C Seater / Sleeper (2+2),14:30,04h 40m,19:10,2.8,420,57
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (BHORPET),A/C Seater (2+3),07:20,04h 30m,11:50,2.8,320,34
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Snemita),AC Seater (2+3),11:10,04h 20m,15:30,3.5,370,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Bhorpet),AC Seater (2+2),09:20,04h 30m,13:50,2.8,370,37
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Pariseba(Santosh),AC Seater (2+3),10:00,04h 30m,14:30,3.2,257,35
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater Push Back (2+3),09:55,04h 25m,14:20,2.6,299,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Samanta Travels,A/C Seater (2+3),12:40,04h 50m,17:30,3.2,300,61
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),15:20,04h 40m,20:00,3.4,320,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Maa Chandi),A/C Push Back (2+3),12:10,04h 35m,16:45,3.2,320,35
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),23:30,04h 10m,03:40,1.9,352,46
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Basu Travels,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,2.3,419,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba,AC Seater (2+3),17:00,04h 30m,21:30,1.9,352,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Maity Motor),AC Seater (2+3),15:45,04h 30m,20:15,2.4,352,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Bus Service,A/C Seater / Sleeper (2+2),23:00,05h 00m,04:00,1.4,523,71
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,A/C Seater (2+3),17:00,04h 00m,21:00,2.4,399,40
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Santosh Bus Service,A/C Seater Push Back (2+3),17:05,04h 25m,21:30,2.0,341,25
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Basu Travels,A/C Seater Push Back (2+3),07:35,04h 50m,12:25,1.9,345,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travels,A/C Seater / Sleeper (2+1),19:30,04h 29m,23:59,1.6,475,43
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba,AC Seater (2+3),18:00,04h 30m,22:30,2.4,352,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,A/C Seater (2+3),23:30,04h 30m,04:00,2.1,370,45
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Chowdhury),AC Seater (2+2),12:50,04h 40m,17:30,1.5,370,24
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Purusottam Travels,A/C Seater (2+3),08:10,04h 50m,13:00,1.7,315,40
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,A/C Seater (2+3),18:20,04h 40m,23:00,2.7,352,61
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Arunita Paribahan,A/C Seater (2+3),04:20,04h 10m,08:30,2.7,370,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan - Parameswar,A/C Seater (2+3),18:00,04h 40m,22:40,2.4,352,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Arunita Paribahan,A/C Seater (2+3),23:35,04h 10m,03:45,2.3,370,21
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,A/C Seater (2+3),11:40,04h 50m,16:30,2.7,380,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Lokenath),AC Seater (2+3),16:20,04h 40m,21:00,2.3,352,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan( Haimanti),A/C Seater Push Back (2+3),10:10,04h 30m,14:40,2.7,380,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Parameswar),A/C Seater (2+3),09:30,04h 25m,13:55,2.7,304,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Jackson),A/C Push Back (2+3),15:00,05h 05m,20:05,1.5,399,40
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Bus Service,A/C Seater / Sleeper (2+2),09:20,05h 40m,15:00,1.0,570,71
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Maa Chandi),A/C Executive (2+3),07:30,04h 35m,12:05,2.1,320,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Anuska),A/C Push Back (2+3),14:25,04h 30m,18:55,1.8,399,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Janhabi),A/C Seater Push Back (2+3),08:50,04h 35m,13:25,2.7,304,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Kojagor),A/C Push Back (2+3),07:00,04h 45m,11:45,2.7,352,21
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Royal Cruiser,Volvo A/C Seater (2+2),10:45,04h 30m,15:15,2.1,474,45
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Parameswar),A/C Seater (2+3),11:00,04h 30m,15:30,2.7,380,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (City Service),A/C Push Back (2+3),07:25,04h 45m,12:10,2.2,320,25
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,A/C Seater (2+3),12:30,04h 00m,16:30,1.9,320,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Maity),A/C Seater Push Back (2+3),09:40,04h 40m,14:20,2.7,380,51
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aniruddha Travels,NON A/C Seater Push Back (2+3) (2+3),16:25,04h 50m,21:15,1.0,250,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (CHOWDHURY),AC Seater (2+2),14:10,04h 30m,18:40,1.9,420,23
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,2.6,419,36
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Rudraksha City Service,A/C Seater (2+3),13:00,04h 20m,17:20,2.6,350,59
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),10:25,05h 05m,15:30,2.6,399,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Arunita Paribahan,AC Seater (2+2),11:05,04h 40m,15:45,2.4,320,21
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sagufta Travels(Janhabi),A/C Seater Push Back (2+3),08:50,05h 20m,14:10,2.2,300,24
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Sagufta Travels(Atithi),A/C Seater Push Back (2+3),10:40,05h 20m,16:00,2.2,315,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Basu Travels,A/C Seater Push Back (2+3),06:50,05h 00m,11:50,2.1,369,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Basu Travels,A/C Seater Push Back (2+3),10:10,05h 05m,15:15,2.1,399,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travels,Non AC Seater (2+3),21:45,05h 40m,03:25,1.8,475,13
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Suvam Travels,A/C Seater Push Back (2+3),09:30,05h 00m,14:30,1.8,300,61
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Kojagar Travels,A/C Seater (2+3),09:00,05h 00m,14:00,1.9,270,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),11:15,04h 35m,15:50,3.2,370,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (City),AC Seater (2+3),10:40,04h 25m,15:05,3.2,420,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Bhorpet),AC Seater (2+2),09:20,04h 30m,13:50,3.2,420,16
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (SONAMONI),AC Seater (2+3),06:15,04h 30m,10:45,3.2,370,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Bhorpet),A/C Seater (2+3),07:20,04h 30m,11:50,3.2,370,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Ruposhi),AC Seater (2+3),07:45,04h 30m,12:15,3.2,370,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Samanta Travels,NON A/C Seater (2+3),16:00,05h 00m,21:00,3.1,199,61
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(BINA RANI),AC Seater (2+3),08:10,04h 35m,12:45,2.9,257,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba(Adhikari),AC Seater (2+3),07:55,04h 35m,12:30,2.9,257,40
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba,A/C Seater Push Back (2+3),11:45,04h 30m,16:15,2.9,257,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Parisheba (Santosh),AC Seater (2+3),06:45,04h 35m,11:20,2.9,314,15
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (ANGEL),A/C Seater Push Back (2+2),10:15,04h 50m,15:05,2.8,370,28
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Sagar Kanya),AC Seater (2+3),10:40,04h 30m,15:10,2.8,370,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Narayani),A/C Seater (2+3),10:05,04h 40m,14:45,2.8,320,56
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Ruposhi),AC Seater (2+3),07:45,04h 30m,12:15,2.8,320,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,A/C Executive (2+3),15:25,04h 35m,20:00,2.7,352,60
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(NARAYANI),A/C Push Back (2+3),12:35,04h 25m,17:00,2.7,399,21
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,A/C Seater Push Back (2+3),11:10,04h 30m,15:40,2.7,399,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,A/C Seater Push Back (2+3),13:45,04h 35m,18:20,2.7,399,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,A/C Executive (2+3),09:50,04h 50m,14:40,2.7,399,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,Non AC Seater (2+3),18:20,04h 40m,23:00,2.7,333,46
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,AC Seater (2+3),08:35,04h 30m,13:05,2.7,285,51
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,AC Seater (2+3),13:40,04h 00m,17:40,2.7,399,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan(Parameswar),A/C Seater (2+3),11:30,04h 35m,16:05,2.7,399,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan (Lokenath),A/C Seater Push Back (2+3),06:50,04h 40m,11:30,2.7,361,15
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Ankita Paribahan,AC Seater (2+3),06:55,04h 35m,11:30,2.7,352,41
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Bengal Surface Transport,A/C Seater Push Back (2+3),10:50,04h 50m,15:40,2.6,399,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Arunita Paribahan,A/C Seater (2+3),08:35,04h 30m,13:05,2.4,370,26
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Arunita Paribahan,A/C Seater (2+3),12:30,04h 30m,17:00,2.4,320,31
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Basu Travels,A/C Seater Push Back (2+3),10:40,05h 00m,15:40,2.1,399,30
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Purusottam Travels,A/C Seater (2+3),08:11,04h 51m,13:02,1.7,320,51
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Suvam Travels,Non AC Seater (2+3),07:15,04h 45m,12:00,1.8,200,59
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Purusottam Travels,NON A/C Seater (2+3),08:50,04h 50m,13:40,1.7,350,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Purusottam Travels,NON A/C Seater (2+3),08:05,05h 05m,13:10,1.7,240,27
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SagarKanya Travels,A/C Seater Push Back (2+3),06:45,04h 40m,11:25,1.8,449,20
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Bus Service,Non AC Seater (2+3),16:50,05h 40m,22:30,1.3,333,54
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Binarani Paribahan,A/C Seater (2+3),08:15,04h 05m,12:20,399,399,61
+Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Kojagar Travels,A/C Seater (2+3),07:05,04h 55m,12:00,1.9,250,21

@@ -1,0 +1,175 @@
+bus_route_name,bus_route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,price,seat_availability
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),05:00,06h 25m,11:25,,314,15
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),06:00,05h 45m,11:45,,314,31
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,FRESHBUS,Electric A/C Seater (2+2),06:10,06h 10m,12:20,,500,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),07:00,05h 45m,12:45,,314,36
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,FRESHBUS,Electric A/C Seater (2+2),07:15,06h 15m,13:30,,450,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),09:00,05h 45m,14:45,,314,27
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),11:00,06h 25m,17:25,,314,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,FRESHBUS,Electric A/C Seater (2+2),12:25,05h 50m,18:15,,500,37
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),13:00,05h 45m,18:45,,314,31
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),14:00,05h 45m,19:45,,314,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,FRESHBUS,Electric A/C Seater (2+2),14:30,06h 00m,20:30,,450,31
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,NON A/C Sleeper (2+1),15:30,04h 40m,20:10,4.1,800,20
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Abhishek Bus,A/C Seater/Sleeper (2+1),16:10,06h 50m,23:00,3.1,480,34
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Shree Manikanta Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:30,04h 40m,21:10,4.2,819,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:30,05h 00m,21:30,4.9,549,19
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Jagan Travels,A/C Sleeper (2+1),16:45,04h 45m,21:30,3.7,710,29
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,FRESHBUS,Electric A/C Seater (2+2),17:30,07h 05m,00:35,,500,38
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,A/C Seater / Sleeper (2+1),17:30,04h 25m,21:55,3.8,700,32
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),18:00,06h 25m,00:25,4.1,523,36
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),18:00,06h 55m,00:55,,314,25
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Svkdt travels,A/C Sleeper (2+1),19:30,04h 15m,23:45,4.4,814,13
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,IRA Travels,A/C Sleeper (2+1),19:30,04h 29m,23:59,3.0,810,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),20:00,04h 30m,00:30,4.0,550,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,RK Travels,Non A/C Seater / Sleeper (2+1),20:20,07h 00m,03:20,3.3,599,26
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,LUCKY TRAVELS,A/C Sleeper (2+1),20:25,07h 35m,04:00,3.7,750,29
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,RK Travels,Non A/C Seater / Sleeper (2+1),20:30,07h 30m,04:00,3.0,599,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,RK Travels,Non A/C Seater / Sleeper (2+1),20:30,07h 00m,03:30,3.2,499,27
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,VEGA BUS,A/C Seater / Sleeper (2+1),20:30,06h 00m,02:30,3.2,523,26
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:40,04h 30m,01:10,3.3,564,36
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,BSRM Travels,Non A/C Seater / Sleeper (2+1),20:45,07h 15m,04:00,4.7,599,16
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,FRESHBUS,Electric A/C Seater (2+2),20:55,06h 35m,03:30,,550,15
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,METRO LINES TRAVELS,NON A/C Seater/ Sleeper (2+1),21:00,06h 00m,03:00,3.4,549,26
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Abhishek Bus,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,05h 50m,02:50,3.8,649,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,RK Travels,A/C Seater / Sleeper (2+1),21:00,07h 00m,04:00,4.2,599,26
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,CHOPPA TRAVELS,NON A/C Sleeper (2+1),21:00,06h 30m,03:30,3.3,799,20
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajeswari Travels,NON A/C Sleeper (2+1),21:10,06h 50m,04:00,3.1,700,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajeswari Travels,A/C Sleeper (2+1),21:15,06h 50m,04:05,3.1,700,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GreenLine Travels And Holidays,A/C Sleeper (2+1),21:15,07h 00m,04:15,4.2,820,9
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajeswari Travels,A/C Sleeper (2+1),21:15,06h 50m,04:05,3.3,700,25
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,KMBT Travels,A/C Seater / Sleeper (2+1),21:30,05h 30m,03:00,3.5,712,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Vengamamba Bus Transport (SVBT),A/C Seater/Sleeper (2+1),21:40,06h 20m,04:00,3.0,690,19
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Zingbus Plus,A/C Seater / Sleeper (2+1),21:55,04h 25m,02:20,4.5,446,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,AGR Travels,A/C Sleeper (2+1),22:00,06h 00m,04:00,3.9,649,14
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Svkdt travels,A/C Sleeper (2+1),22:00,04h 00m,02:00,4.2,752,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:00,04h 15m,02:15,4.5,764,33
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bharathi Travels,Non A/C Seater / Sleeper (2+1),22:00,06h 00m,04:00,3.0,599,25
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Go Tour Travels and Holidays,A/C Sleeper (2+1),22:00,05h 00m,03:00,4.4,627,15
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Vengamamba Bus Transport (SVBT),Non A/C Seater / Sleeper (2+1),22:15,06h 00m,04:15,3.1,600,15
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GKT TRAVELS,A/C Seater / Sleeper (2+1),22:15,05h 45m,04:00,4.6,522,19
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,VEGA BUS,A/C Seater / Sleeper (2+1),22:30,05h 45m,04:15,3.2,523,27
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,IRA Travels,Bharat Benz A/C Sleeper (2+1),22:30,04h 30m,03:00,3.0,810,25
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Jabbar Travels,NON A/C Sleeper (2+1),22:45,05h 15m,04:00,3.7,524,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Jabbar Travels,A/C Sleeper (2+1),22:45,04h 45m,03:30,4.1,586,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,LUCKY TRAVELS,A/C Sleeper (2+1),22:45,04h 35m,03:20,3.5,799,19
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,LUCKY TRAVELS,NON A/C Sleeper (2+1),22:50,05h 50m,04:40,4.4,749,20
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GreenLine Travels And Holidays,NON A/C Sleeper (2+1),23:00,05h 00m,04:00,3.7,775,19
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),23:00,06h 55m,05:55,,332,18
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,FRESHBUS,Electric A/C Seater (2+2),23:15,06h 00m,05:15,,450,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajeswari Travels,Non A/C Seater / Sleeper (2+1),23:30,04h 30m,04:00,3.1,600,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,JTS Tours and Travels,A/C Sleeper (2+1),23:30,04h 29m,03:59,3.0,741,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NueGo,Electric A/C Seater (2+2),23:50,05h 55m,05:45,,332,27
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,KKaveri Travels,Non A/C Seater / Sleeper (2+1),14:00,05h 15m,19:15,2.5,670,13
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Morning Star Travels,A/C Sleeper (2+1),17:45,04h 45m,22:30,2.6,790,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Orange Tours And Travels,NON A/C Sleeper (2+1),18:00,05h 55m,23:55,1.6,600,34
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Morning Star Travels,A/C Sleeper (2+1),18:30,05h 20m,23:50,2.6,500,13
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,KKaveri Travels,Non A/C Seater / Sleeper (2+1),18:45,03h 30m,22:15,2.5,600,29
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Jagan Travels,A/C Sleeper (2+1),19:00,04h 45m,23:45,1.8,549,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Shyamoli Paribahan Pvt Ltd,Volvo 9600 A/C Seater/Sleeper (2+1),19:00,04h 30m,23:30,2.8,699,36
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Abhishek Bus,A/C Seater / Sleeper (2+1),19:00,04h 15m,23:15,2.9,650,22
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Krishna Travels,A/C Sleeper (2+1),19:00,04h 30m,23:30,2.8,800,26
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,CHAITRA SRI TRAVELS,Non A/C Seater / Sleeper (2+1),19:15,05h 35m,00:50,1.8,600,29
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Morning Star Travels,A/C Sleeper (2+1),19:15,04h 40m,23:55,2.6,790,14
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,SRKT Travels,A/C Seater / Sleeper (2+1),19:30,05h 00m,00:30,2.4,650,31
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),19:30,06h 00m,01:30,2.8,600,22
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Varsha Travels,A/C Sleeper (2+1),19:30,03h 30m,23:00,1.3,1899,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Shanmukh Travels,A/C Sleeper (2+1),20:00,06h 30m,02:30,2.3,618,19
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),20:00,03h 59m,23:59,2.5,600,9
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,SRKT Travels,A/C Seater / Sleeper (2+1),20:05,05h 05m,01:10,2.4,700,33
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GreenLine Travels And Holidays,A/C Sleeper (2+1),20:15,05h 45m,02:00,2.3,1999,7
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Kamakshi Tours And Travels,NON A/C Sleeper (2+1),20:45,05h 15m,02:00,2.2,799,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Varsha Travels,A/C Sleeper (2+1),21:30,06h 30m,04:00,1.7,599,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Morning Star Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),21:30,04h 00m,01:30,2.6,790,25
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sai Sri Balaji Travels,Bharat Benz NON A/C sleeper (2+1),21:30,07h 30m,05:00,2.2,499,18
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Komitla Trans lines.,NON A/C Sleeper (2+1),22:00,03h 55m,01:55,2.7,664,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rapid Travels,NON A/C Sleeper (2+1),22:00,05h 00m,03:00,2.2,699,20
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Balaji Tourist,Volvo Multi-Axle A/C Semisleeper (2+2),22:00,07h 00m,05:00,1.3,1500,1
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,KKaveri Travels,Non A/C Seater / Sleeper (2+1),22:30,05h 00m,03:30,2.5,560,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rapid Travels,NON A/C Sleeper (2+1),22:45,04h 35m,03:20,2.1,699,20
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Simhapuri Travels,NON A/C Sleeper (2+1),23:00,04h 00m,03:00,1.8,699,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Varsha Travels,A/C Sleeper (2+1),23:50,05h 00m,04:50,2.5,599,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),15:00,04h 30m,19:30,3.3,1600,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Orange Tours and Travels Platinum,Volvo Multi-Axle Sleeper A/C (2+1),15:30,05h 30m,21:00,3.7,900,40
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,A/C Sleeper (2+1),16:50,04h 45m,21:35,4.2,1600,10
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:00,04h 30m,21:30,4.2,1329,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),17:00,05h 00m,22:00,3.3,1149,25
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),17:00,05h 00m,22:00,3.3,1549,2
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Svkdt travels,A/C Sleeper (2+1),17:30,05h 01m,22:31,4.3,1390,29
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),17:30,05h 00m,22:30,3.3,1349,18
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),17:30,05h 00m,22:30,3.3,1149,20
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Navayuga Travels,A/C Sleeper (2+1),18:10,04h 30m,22:40,3.9,1110,32
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,VRL Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),18:15,04h 00m,22:15,3.4,1100,42
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,A/C Sleeper (2+1),18:15,04h 25m,22:40,3.8,1500,4
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Intercity travels,Bharat Benz A/C Sleeper (2+1),18:30,05h 00m,23:30,4.8,999,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Svkdt travels,Scania AC Multi Axle Sleeper (2+1),18:30,05h 25m,23:55,3.5,900,20
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,SIVA SAI BALAJI TOURS AND TRAVELS,A/C Sleeper (2+1),18:40,06h 50m,01:30,,899,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Abhishek Bus,A/C Sleeper (2+1),19:00,04h 43m,23:43,3.1,1000,33
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,04h 25m,23:25,4.4,1010,18
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Prasanna Travels,A/C Sleeper (2+1),19:00,04h 30m,23:30,3.0,1100,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Chalasani Travels (Kaleswari),A/C Sleeper (2+1),19:30,04h 33m,00:03,4.4,900,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),19:30,04h 15m,23:45,4.3,866,32
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Intercity travels,Bharat Benz A/C Sleeper (2+1),19:35,04h 24m,23:59,4.7,1011,22
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,CCC Bus,A/C Sleeper (2+1),19:45,03h 55m,23:40,4.3,999,18
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:45,04h 14m,23:59,4.0,1599,18
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sea Bird Tourist,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:45,27h 30m,23:15,3.3,1800,25
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Vibhav Holidays,A/C Sleeper (2+1),20:00,27h 00m,23:00,3.3,1903.81,14
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Kamakshi Tours And Travels,A/C Sleeper (2+1),20:30,05h 30m,02:00,3.8,900,16
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Svkdt travels,A/C Sleeper (2+1),20:30,03h 29m,23:59,4.2,1400,9
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,NON A/C Sleeper (2+1),20:30,03h 57m,00:27,4.9,900,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Kamakshi Tours And Travels,A/C Sleeper (2+1),20:30,05h 30m,02:00,3.8,900,17
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Vengamamba Bus Transport (SVBT),A/C Sleeper (2+1),20:30,05h 30m,02:00,4.5,1081,18
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,KGN and NR TRAVELS,NON A/C Sleeper (2+1),20:35,06h 40m,03:15,4.0,1599,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,KGN and NR TRAVELS,NON A/C Sleeper (2+1),20:40,06h 20m,03:00,4.0,1399,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,MRS TRAVELS,A/C Sleeper (2+1),20:45,07h 00m,03:45,4.1,2000,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,NSK Travels,A/C Sleeper (2+1),20:45,06h 15m,03:00,,899,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,MRS TRAVELS,A/C Sleeper (2+1),20:45,06h 45m,03:30,4.1,850,15
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Chalasani Travels (Kaleswari),A/C Sleeper (2+1),21:00,04h 11m,01:11,4.4,1100,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,CHOPPA TRAVELS,A/C Sleeper (2+1),21:00,06h 45m,03:45,4.4,999,7
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Vengamamba Bus Transport (SVBT),A/C Seater/Sleeper (2+1),21:00,06h 00m,03:00,3.1,861,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Abhishek Bus,A/C Sleeper (2+1),21:15,05h 45m,03:00,3.1,949,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Kaveri Travels,A/C Sleeper (2+1),21:30,04h 30m,02:00,3.7,1100,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,RK Travels,A/C Seater / Sleeper (2+1),21:30,07h 00m,04:30,3.6,2000,35
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,IntrCity SmartBus,AC Sleeper (2+1),21:30,04h 05m,01:35,4.1,925,25
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,ASHITHA TRAVELS,A/C Sleeper (2+1),21:40,06h 05m,03:45,3.9,949,16
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,CCC Bus,A/C Sleeper (2+1),21:45,03h 45m,01:30,4.3,899,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,IntrCity SmartBus,Volvo Multi Axle Sleeper B11R (2+1),21:50,05h 05m,02:55,3.0,1064,35
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:00,04h 00m,02:00,4.3,1080,19
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Shrinivasa Bus Transport (SSBT),NON A/C Semi Sleeper / Sleeper (2+1),22:15,05h 00m,03:15,4.1,4390,33
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Shyamoli Paribahan Pvt Ltd,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:30,03h 15m,01:45,4.0,960,27
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Intercity travels,Bharat Benz A/C Sleeper (2+1),22:30,05h 00m,03:30,4.9,899,13
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GRV Yatrikha LLP,Scania AC Multi Axle Sleeper (2+1),22:30,04h 30m,03:00,3.9,1149,1
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,KTC Travels,A/C Seater / Sleeper (2+1),22:30,06h 15m,04:45,3.4,990,31
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GreenLine Travels And Holidays,VE A/C Sleeper (2+1),22:30,05h 30m,04:00,3.6,900,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:30,03h 30m,02:00,4.6,1080,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GreenLine Travels And Holidays,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:45,06h 15m,05:00,3.1,999,33
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Green Line Travels And Holidays Premium Business Class,VE Executive A/C Sleeper (1+1),23:00,05h 00m,04:00,5.0,1299,18
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GreenLine Travels And Holidays,NON A/C Sleeper (2+1),23:00,06h 00m,05:00,3.1,900,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GreenLine Travels And Holidays,A/C Sleeper (2+1),23:15,05h 15m,04:30,3.8,900,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Rajesh Transports,A/C Volvo B11R Multi-Axle Sleeper (2+1),23:20,04h 10m,03:30,4.1,1080,17
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,SVD Vedansh Travels,A/C Sleeper (2+1),14:30,06h 30m,21:00,2.5,1699,29
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Komitla Trans lines.,NON A/C Sleeper (2+1),15:30,05h 00m,20:30,2.1,984,26
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Navayuga Travels,A/C Sleeper (2+1),16:20,04h 50m,21:10,2.5,1670,13
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Orange Tours And Travels,A/C Sleeper (2+1),16:30,05h 15m,21:45,1.6,900,31
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,SRS Travels,Non A/C Seater / Sleeper (2+1),17:15,06h 40m,23:55,2.5,999,38
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Orange Tours and Travels Grand,A/C Sleeper (2+1),17:30,05h 45m,23:15,1.8,900,23
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Krishna Travels,A/C Sleeper (2+1),17:30,05h 15m,22:45,2.8,1100,19
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GreenLine Travels And Holidays,A/C Sleeper (2+1),20:00,07h 00m,03:00,2.1,1999,2
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Varsha Travels,A/C Sleeper (2+1),20:30,26h 30m,23:00,1.6,1899,22
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Shanmukh Travels,A/C Sleeper (2+1),20:30,06h 30m,03:00,,4750,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Krishna Travels,A/C Sleeper (2+1),20:30,05h 30m,02:00,2.8,899,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sree Hari Travels,NON A/C Sleeper (2+1),20:30,05h 00m,01:30,2.6,3999,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sree Hari Travels,NON A/C Sleeper (2+1),20:30,07h 00m,03:30,2.6,1980,30
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,GEETHA TRAVELS,A/C Sleeper (2+1),21:00,06h 30m,03:30,1.3,4000,32
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Komitla Trans lines.,A/C Sleeper (2+1),21:00,06h 00m,03:00,2.3,934,15
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Kamakshi Tours And Travels,A/C Sleeper (2+1),21:00,05h 00m,02:00,2.2,899,24
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Durga Shree Travels,A/C Sleeper (2+1),21:05,24h 30m,21:35,2.5,2399,17
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Varsha Travels,A/C Sleeper (2+1),21:15,24h 30m,21:45,1.3,1899,28
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Krishna Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),21:30,04h 30m,02:00,2.8,1000,20
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,V Kaveri Travels,VE A/C Sleeper (2+1),22:00,05h 15m,03:15,2.9,900,27
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,VIHARI TRAVELS,NON A/C Sleeper (2+1),22:00,06h 00m,04:00,5500,5225,2
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Krishna Travels,A/C Sleeper (2+1),22:30,04h 30m,03:00,2.8,850,21
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,SRI VARAHA TOURS AND TRAVELS,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),22:45,05h 30m,04:15,1499,1499,49
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Sri Krishna Travels,A/C Sleeper (2+1),23:00,04h 30m,03:30,2.8,3000,29
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,VRL Travels,Volvo Multi-Axle A/C Sleeper (2+1),17:00,04h 00m,21:00,3.4,1600,27
+Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,VRL Travels,A/C Sleeper (2+1),21:30,03h 30m,01:00,3.4,900,30

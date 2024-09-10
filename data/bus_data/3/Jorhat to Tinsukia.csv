@@ -1,0 +1,4 @@
+bus_route_name,bus_route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,price,seat_availability
+Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,Aroti Travels (Under ASTC),Non AC Seater (2+2),12:30,05h 20m,17:50,4.0,350,37
+Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,13:30,05h 00m,18:30,4.7,735.16,38
+Jorhat to Tinsukia,https://www.redbus.in/bus-tickets/jorhat-to-tinsukia,MADHURIKA TRAVELS,A/C Seater (2+1),12:45,05h 15m,18:00,2.3,600,35
