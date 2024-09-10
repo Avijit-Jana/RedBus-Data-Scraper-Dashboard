@@ -1,0 +1,6 @@
+bus_route_name,bus_route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,price,seat_availability
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,13h 30m,08:30,2.9,850,19
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,S R Travels,A/C Seater/Sleeper (2+1),20:30,11h 00m,07:30,2.2,800,24
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,SR Tours & Travels,A/C Sleeper (2+1),19:00,11h 50m,06:50,2.9,1350,20
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Sharma Travels,AC Sleeper (2+1),15:00,11h 00m,02:00,3.8,1619,8
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,PVS Tours and Travels,A/C Sleeper (2+1),21:00,12h 00m,09:00,3.3,2950,36

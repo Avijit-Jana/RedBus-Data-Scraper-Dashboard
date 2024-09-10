@@ -1,0 +1,4 @@
+bus_route_name,bus_route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,price,seat_availability
+Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),03:30,04h 30m,08:00,1.3,1450,1
+Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,Shirdi Xpress,A/C Sleeper (2+1),08:45,03h 15m,12:00,2.2,480,8
+Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,S R Travels,NON A/C Sleeper (2+1),01:00,05h 00m,06:00,1.5,799,18

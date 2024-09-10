@@ -1,0 +1,358 @@
+bus_route_name,bus_route_link,bus_name,bus_type,departing_time,duration,reaching_time,star_rating,price,seat_availability
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:50,05h 45m,05:35,4.5,436,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),23:59,06h 31m,06:30,4.6,642,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),04:35,05h 55m,10:30,,450,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06h 55m,06:00,4.4,452,38
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Svkdt travels,A/C Sleeper (2+1),23:35,06h 15m,05:50,4.4,549,22
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),05:50,05h 55m,11:45,,450,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,A/C Sleeper (2+1),23:35,05h 40m,05:15,4.5,780,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,06h 20m,06:05,4.4,525,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Svkdt travels,A/C Seater / Sleeper (2+1),23:35,05h 55m,05:30,4.4,449,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),00:20,06h 10m,06:30,,450,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,AC Sleeper (2+1),23:25,06h 40m,06:05,4.3,609,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Sanvi Tours and Travels,A/C Sleeper (2+1),23:12,05h 41m,04:53,4.4,674,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06h 15m,05:20,4.4,480,37
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,AC Sleeper (2+1),23:30,07h 15m,06:45,4.5,630,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),22:35,06h 40m,05:15,,379,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),11:05,06h 35m,17:40,,450,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),23:10,06h 25m,05:35,,450,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),22:50,06h 30m,05:20,,450,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Durga Malleswari Travels,A/C Sleeper (2+1),23:10,06h 15m,05:25,4.2,653,14
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),22:30,07h 30m,06:00,,379,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),06:00,06h 20m,12:20,,379,11
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Tirumala Xpress,A/C Sleeper (2+1),23:00,06h 50m,05:50,4.0,590,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),23:13,05h 07m,04:20,4.1,460,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),16:00,07h 00m,23:00,,332,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Yolo Bus,A/C Seater / Sleeper (2+1),22:46,06h 38m,05:24,4.0,460,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),00:15,06h 10m,06:25,4.1,421,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,LVR Travels,Non A/C Seater / Sleeper (2+1),23:37,06h 08m,05:45,4.0,560,22
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),15:00,06h 40m,21:40,,332,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Durga Malleswari Travels,A/C Sleeper (2+1),23:10,05h 25m,04:35,4.1,653,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),21:30,06h 50m,04:20,,379,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater/Sleeper (2+1),22:00,07h 10m,05:10,,379,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),10:00,06h 25m,16:25,,332,20
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),13:30,06h 40m,20:10,,332,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Svkdt travels,A/C Sleeper (2+1),23:35,06h 15m,05:50,4.2,549,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,NON A/C Sleeper (2+1),21:00,08h 30m,05:30,4.0,650,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),12:00,06h 25m,18:25,,332,40
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater/Sleeper (2+1),23:00,07h 00m,06:00,,427,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),22:30,07h 05m,05:35,,379,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),23:15,07h 20m,06:35,,512,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),23:30,07h 00m,06:30,,379,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Go Tour Travels and Holidays,A/C Seater / Sleeper (2+1),22:48,05h 27m,04:15,4.3,751,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Durga Malleswari Travels,A/C Seater / Sleeper (2+1),21:00,07h 40m,04:40,3.8,435,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,A/C Sleeper (2+1),22:25,06h 20m,04:45,3.7,900,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Zingbus Plus,A/C Seater / Sleeper (2+1),23:38,06h 27m,06:05,3.5,444,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,BSR Tours And Travels,VE A/C Sleeper (2+1),22:00,06h 10m,04:10,4.4,980,16
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Venkata Padmavathi Travels,Non A/C Seater / Sleeper (2+1),22:42,07h 18m,06:00,4.0,513,40
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),11:00,06h 25m,17:25,,332,39
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:00,06h 45m,05:45,3.4,500,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),22:55,06h 50m,05:45,3.4,900,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),23:50,06h 40m,06:30,,379,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:00,06h 30m,05:30,3.4,500,40
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),11:30,06h 40m,18:10,,332,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),22:30,06h 45m,05:15,3.3,500,20
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:05,07h 55m,03:00,5.0,1086,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,LVP Travels,A/C Seater / Sleeper (2+1),22:19,06h 26m,04:45,4.0,610,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),22:55,06h 50m,05:45,3.2,800,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,CVR Express,Non A/C Seater / Sleeper (2+1),20:40,07h 45m,04:25,3.1,560,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),22:00,07h 20m,05:20,,577,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mythri Tours And Travels,A/C Sleeper (2+1),19:10,07h 18m,02:28,4.2,909,20
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),23:05,06h 15m,05:20,3.3,790,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Nani Svkdt Travels,A/C Sleeper (2+1),23:20,05h 05m,04:25,3.4,870,18
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater/Sleeper (2+1),10:30,06h 35m,17:05,,332,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Kaveri Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:18,05h 47m,04:05,3.8,1379,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Go Bus Travels,Non A/C Seater / Sleeper (2+1),22:00,06h 30m,04:30,3.9,522,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,PRK Travels,Non A/C Seater / Sleeper (2+1),22:13,07h 12m,05:25,3.8,690,5
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),22:15,06h 10m,04:25,3.4,500,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Sai Srinivasa Travels,Non A/C Seater / Sleeper (2+1),22:10,06h 20m,04:30,4.1,550,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,A/C Seater / Sleeper (2+1),23:00,05h 15m,04:15,3.8,600,19
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Atluri Travels,A/C Seater / Sleeper (2+1),22:15,06h 52m,05:07,4.1,550,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:00,06h 30m,05:30,3.3,500,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Anjani Bus,A/C Seater / Sleeper (2+1),22:45,05h 55m,04:40,3.7,449,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Tirumala Travels,A/C Sleeper (2+1),22:08,06h 22m,04:30,4.6,679,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,A/C Sleeper (2+1),23:00,06h 15m,05:15,3.0,800,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Pavan Tours and Travels,A/C Sleeper (2+1),23:10,05h 45m,04:55,4.3,506,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),18:15,07h 55m,02:10,4.4,889,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:55,06h 50m,05:45,2.9,600,39
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SAMANVI CITICONNECT,Non A/C Seater / Sleeper (2+1),21:30,05h 00m,02:30,2.8,649,20
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Eswar Travels,A/C Seater / Sleeper (2+1),22:25,06h 05m,04:30,3.5,600,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Kaveri Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:21,06h 14m,04:35,3.9,1100,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sudha Sri Tours and Travels,A/C Sleeper (2+1),22:55,05h 05m,04:00,3.3,990,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),23:25,06h 35m,06:00,4.3,699,53
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,AC Sleeper (2+1),16:40,07h 40m,00:20,4.5,1126,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,LVP Travels,A/C Seater / Sleeper (2+1),21:00,07h 30m,04:30,3.8,680,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:25,06h 05m,04:30,3.9,700,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Atluri Travels,NON A/C Hi-Tech (2+2),22:10,06h 10m,04:20,3.3,610,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Royal Varma Travels,A/C Sleeper (2+1),22:37,06h 08m,04:45,3.7,1200,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,Volvo Multi-Axle Sleeper A/C (2+1),22:55,06h 20m,05:15,2.9,800,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),19:45,08h 10m,03:55,2.7,500,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Keerthana Sai Travels,A/C Sleeper (2+1),19:00,04h 45m,23:45,4.5,1190,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sitara Travels,NON A/C Push Back (2+2),22:40,05h 20m,04:00,4.4,499,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Go Tour Travels and Holidays,A/C Sleeper (2+1),22:48,05h 27m,04:15,3.7,1226,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,AC Sleeper (2+1),18:05,07h 05m,01:10,5.0,1013,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Sleeper (2+1),22:55,06h 50m,05:45,2.9,700,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Naveen Tours and Travels,A/C Seater/Sleeper (2+1),22:00,08h 15m,06:15,,3898,44
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Naveen Tours and Travels,A/C Seater / Sleeper (2+1),21:25,04h 06m,01:31,,3999,45
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Naveen Tours and Travels,A/C Seater/Sleeper (2+1),20:50,07h 25m,04:15,,3999,44
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Naveen Tours and Travels,A/C Seater/Sleeper (2+1),14:20,08h 25m,22:45,,3999,44
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Naveen Tours and Travels,A/C Seater/Sleeper (2+1),14:50,07h 25m,22:15,,3999,44
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Naveen Tours and Travels,A/C Seater/Sleeper (2+1),22:00,06h 15m,04:15,,3999,44
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Naveen Tours and Travels,A/C Seater/Sleeper (2+1),19:10,09h 05m,04:15,,3999,44
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KPS Buses,A/C Sleeper (2+1),21:15,07h 15m,04:30,,710,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,VR Travels,Non A/C Seater / Sleeper (2+1),22:15,06h 10m,04:25,,4000,40
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Srinivasa Travels,A/C Sleeper (2+1),22:35,05h 40m,04:15,3.9,880,16
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:15,06h 35m,04:50,4.5,1700,40
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Sleeper (2+1),19:30,06h 30m,02:00,3.7,700,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai RK Travels,Non A/C Seater / Sleeper (2+1),22:55,05h 15m,04:10,3.5,670,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Srivastav Travels,A/C Sleeper (2+1),23:30,05h 20m,04:50,4.0,759,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,BSR Tours And Travels,A/C Sleeper (2+1),22:00,06h 00m,04:00,4.0,980,17
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Holidays Tours and Travels,A/C Seater / Sleeper (2+1),22:30,05h 55m,04:25,4.4,607,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SVR Tours and Travels,Volvo Multi Axle Sleeper B11R (2+1),17:15,06h 35m,23:50,2.9,800,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Navayuga Travels,NON AC Seater / Sleeper 2+1,21:50,06h 20m,04:10,4.2,670,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Rama Travels,Non A/C Seater / Sleeper (2+1),21:45,06h 30m,04:15,4.3,610,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,A/C Sleeper (2+1),23:00,06h 30m,05:30,3.0,1000,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),22:44,04h 51m,03:35,3.9,600,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Chandu Travels,A/C Seater / Sleeper (2+1),23:05,05h 25m,04:30,3.2,580,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mayuri Travels,Non A/C Seater / Sleeper (2+1),22:30,05h 30m,04:00,4.0,610,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,Non A/C Seater / Sleeper (2+1),18:02,07h 58m,02:00,3.3,700,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,LVR Travels,Non A/C Seater / Sleeper (2+1),22:13,06h 42m,04:55,4.3,560,37
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,BSR Tours And Travels,A/C Seater / Sleeper (2+1),19:10,07h 20m,02:30,4.4,680,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:20,06h 25m,04:45,3.4,700,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Varun Travels,Scania AC Multi Axle Sleeper (2+1),22:45,06h 00m,04:45,3.8,700,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Komali Travels,Non A/C Seater / Sleeper (2+1),21:00,07h 30m,04:30,3.4,670,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Apple Travels,A/C Seater / Sleeper (2+1),21:50,05h 40m,03:30,3.8,760,39
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),16:20,06h 55m,23:15,3.8,900,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SVR Tours and Travels,A/C Seater / Sleeper (2+1),17:15,06h 35m,23:50,3.4,680,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),20:55,06h 25m,03:20,4.0,560,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,A/C Seater / Sleeper (2+1),17:00,08h 00m,01:00,3.5,1600,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Ramana Tours And Travels,NON AC Seater / Sleeper 2+1,22:25,06h 20m,04:45,3.5,670,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Sri Durga Travels,Non A/C Seater / Sleeper (2+1),23:20,06h 25m,05:45,2.7,3000,40
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,AMIGOS TRAVELS,A/C Sleeper (2+1),22:50,06h 00m,04:50,3.4,749,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SAMANVI CITICONNECT,Non A/C Seater / Sleeper (2+1),22:25,05h 20m,03:45,2.9,780,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Siri Tours and Travels,A/C Seater / Sleeper (2+1),18:40,08h 00m,02:40,3.3,670,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Rama Travels,A/C Seater / Sleeper (2+1),22:25,05h 50m,04:15,3.9,777,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),23:05,05h 50m,04:55,3.0,790,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,A/C Sleeper (2+1),22:20,06h 20m,04:40,2.7,870,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),19:45,08h 10m,03:55,2.4,500,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),06:25,05h 55m,12:20,1.8,500,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mayuri Travels,A/C Seater / Sleeper (2+1),16:17,07h 38m,23:55,3.3,900,38
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,Non A/C Seater / Sleeper (2+1),19:15,07h 15m,02:30,3.8,700,19
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),23:05,05h 55m,05:00,2.8,790,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Karan Sai Tours and Travels,Non A/C Seater / Sleeper (2+1),21:55,06h 25m,04:20,3.2,474,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Sai Anjana Tours and Travels,Non A/C Seater / Sleeper (2+1),21:58,05h 47m,03:45,3.7,599,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KVR Tours and Travels,A/C Seater / Sleeper (2+1),21:55,06h 20m,04:15,3.0,854,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,A/C Sleeper (2+1),22:20,06h 25m,04:45,3.4,1100,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours and Travels Grand,A/C Sleeper (2+1),05:35,05h 25m,11:00,1.7,600,13
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SVR Tours and Travels,A/C Seater / Sleeper (2+1),17:15,06h 35m,23:50,3.0,680,20
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:25,06h 05m,04:30,3.1,800,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Tranzindia Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:55,05h 05m,04:00,3.0,1299,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:45,06h 25m,05:10,2.6,600,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mozo travels,A/C Sleeper (2+1),20:10,08h 10m,04:20,3.3,1200,20
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SLGT Travels,A/C Seater/Sleeper (2+1),22:40,05h 50m,04:30,3.1,670,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Jagan Travels,Non A/C Seater / Sleeper (2+1),14:15,07h 45m,22:00,2.9,3004,10
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Sri Krishna Travels,A/C Seater / Sleeper (2+1),22:35,05h 55m,04:30,2.6,750,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,A/C Seater / Sleeper (2+1),17:00,06h 15m,23:15,2.3,1200,39
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),22:20,05h 10m,03:30,2.7,990,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),22:20,06h 10m,04:30,1.4,790,22
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),17:50,08h 25m,02:15,2.7,1000,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,Non A/C Seater / Sleeper (2+1),15:30,08h 00m,23:30,2.2,1060,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,A/C Sleeper (2+1),14:00,07h 00m,21:00,2.6,2990,2
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,BSR Tours And Travels,A/C Seater / Sleeper (2+1),22:00,06h 10m,04:10,2.5,680,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),22:15,05h 15m,03:30,2.6,560,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,Non A/C Seater / Sleeper (2+1),21:00,06h 30m,03:30,1.4,700,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),19:45,07h 45m,03:30,2.4,1000,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Ramana Tours And Travels,Non A/C Seater / Sleeper (2+1),21:40,06h 20m,04:00,2.6,699,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Siri Tours and Travels,Non A/C Seater / Sleeper (2+1),22:13,05h 47m,04:00,2.7,610,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Siri Tours and Travels,A/C Seater / Sleeper (2+1),18:35,07h 35m,02:10,2.5,670,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,NON A/C Sleeper (2+1),23:05,06h 05m,05:10,2.0,650,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,Non A/C Seater / Sleeper (2+1),22:27,05h 33m,04:00,2.0,670,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Srivastav Travels,Non A/C Seater / Sleeper (2+1),23:00,06h 00m,05:00,2.4,522,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,LIMOLINER,A/C Sleeper (2+1),18:30,07h 40m,02:10,2.8,1000,12
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Ramana Tours And Travels,A/C Seater / Sleeper (2+1),22:25,06h 20m,04:45,2.2,670,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai RK Travels,Non A/C Seater / Sleeper (2+1),22:45,05h 20m,04:05,2.0,499,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Sai Anjana Tours and Travels,Non A/C Seater / Sleeper (2+1),20:15,08h 15m,04:30,2.3,499,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,A/C Sleeper (2+1),22:30,06h 15m,04:45,1.7,900,16
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),16:20,06h 20m,22:40,,475,39
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),23:00,06h 20m,05:20,1.8,790,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),14:55,08h 25m,23:20,1.7,1000,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Prasanna Travels,A/C Seater / Sleeper (2+1),23:55,06h 20m,06:15,3.5,500,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Keerthana Sai Travels,Non A/C Seater / Sleeper (2+1),19:00,04h 45m,23:45,4.5,690,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NueGo,Electric A/C Seater (2+2),09:30,07h 40m,17:10,,379,10
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,GMC Travels,A/C Seater / Sleeper (2+1),22:00,05h 30m,03:30,4.4,980,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:40,07h 25m,04:05,4.4,810,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Svkdt travels,A/C Sleeper (2+1),17:00,09h 05m,02:05,4.3,1039,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Navayuga Travels,A/C Seater / Sleeper (2+1),21:20,07h 10m,04:30,4.3,690,40
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Shyamoli Paribahan Pvt Ltd,A/C Seater/Sleeper (2+1),15:55,06h 00m,21:55,4.3,3999,8
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Navayuga Travels,NON AC Seater / Sleeper 2+1,15:00,06h 10m,21:10,4.3,2490,8
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Navayuga Travels,NON AC Seater / Sleeper 2+1,20:45,07h 45m,04:30,4.3,670,41
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,BSR Tours And Travels,VE A/C Sleeper (2+1),22:00,06h 20m,04:20,4.2,980,11
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Jayanthi Travels,Non A/C Seater / Sleeper (2+1),21:10,07h 30m,04:40,4.2,670,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Jayanthi Travels,Non A/C Seater / Sleeper (2+1),21:15,05h 45m,03:00,4.2,670,17
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,BSR Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),17:02,08h 03m,01:05,4.2,1979,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Jayanthi Travels,NON A/C Hi-Tech Push Back (2+2),20:30,07h 15m,03:45,4.2,720,20
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Srinivasa Travels,Non A/C Seater / Sleeper (2+1),23:00,05h 50m,04:50,3.9,560,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,A/C Seater / Sleeper (2+1),18:30,06h 10m,00:40,4.2,1499,17
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Jayanthi Travels,A/C Sleeper (2+1),21:10,06h 20m,03:30,4.2,999,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Vikram Travels,A/C Sleeper (2+1),21:30,05h 30m,03:00,4.1,1100,22
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Vikram Travels,A/C Sleeper (2+1),20:10,05h 50m,02:00,4.1,739,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Shree Manikanta Travels,A/C Sleeper (2+1),15:15,08h 25m,23:40,4.1,1079,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Vikram Travels,A/C Seater / Sleeper (2+1),21:30,06h 30m,04:00,4.1,569,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Padma Travels,Non A/C Seater / Sleeper (2+1),21:30,06h 30m,04:00,4.0,499,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mahi Trans Solutions,Non A/C Seater / Sleeper (2+1),22:00,06h 15m,04:15,3.9,670,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sree Gowtham Travels,A/C Sleeper (2+1),22:00,07h 32m,05:32,3.9,900,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,LVR Travels,Non A/C Seater / Sleeper (2+1),22:13,06h 52m,05:05,3.9,560,41
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),23:20,06h 05m,05:25,3.6,790,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Laharisa Tours and Travels,Non A/C Seater / Sleeper (2+1),21:30,06h 30m,04:00,3.8,600,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:22,06h 08m,04:30,3.9,670,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SRI SAI BALAJI TOURS AND TRAVELS,A/C Seater / Sleeper (2+1),14:25,08h 05m,22:30,3.7,999,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Anjani Bus,NON A/C Sleeper (2+1),22:30,06h 00m,04:30,3.7,749,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Vahini Travels,Non A/C Seater / Sleeper (2+1),22:37,06h 08m,04:45,3.7,610,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Vahini Travels,Non A/C Seater / Sleeper (2+1),20:41,07h 49m,04:30,3.7,610,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SANDHYA TRAVELS,Bharat Benz A/C Sleeper (2+1),23:00,06h 10m,05:10,3.6,2660,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KTR Travels,Non A/C Seater / Sleeper (2+1),17:30,05h 00m,22:30,3.6,1199,11
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SAMANVI CITICONNECT,Non A/C Seater / Sleeper (2+1),22:25,05h 20m,03:45,2.9,780,38
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),22:20,06h 45m,05:05,3.6,700,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,A/C Sleeper (2+1),14:50,06h 10m,21:00,3.6,2990,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Atluri Travels,NON AC Seater / Sleeper 2+1,20:00,08h 20m,04:20,3.6,610,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri NVR Travels,NON A/C Sleeper (2+1),22:30,06h 00m,04:30,3.6,899,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:20,07h 10m,05:30,3.7,800,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Krk Travels,Non A/C Seater / Sleeper (2+1),14:00,09h 00m,23:00,3.5,890,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Nani Svkdt Travels,A/C Sleeper (2+1),23:20,05h 10m,04:30,3.3,870,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,DMR Travels,A/C Sleeper (2+1),21:16,06h 14m,03:30,3.5,1100,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,DMR Travels,Non A/C Seater / Sleeper (2+1),22:35,05h 55m,04:30,3.5,780,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,DMR Travels,Non A/C Seater / Sleeper (2+1),22:30,05h 30m,04:00,3.5,780,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,DMR Travels,Non A/C Seater / Sleeper (2+1),22:40,05h 50m,04:30,3.5,780,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Kalyani Transport,Non A/C Seater / Sleeper (2+1),20:45,05h 45m,02:30,3.5,610,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,A/C Seater / Sleeper (2+1),23:00,06h 10m,05:10,3.6,650,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,DMR Travels,Non A/C Seater / Sleeper (2+1),22:28,06h 02m,04:30,3.5,880,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Vinay's Tours and Travels,A/C Sleeper (2+1),23:20,06h 05m,05:25,3.4,900,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mayuri Travels,A/C Sleeper (2+1),19:52,06h 38m,02:30,3.4,1450,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mayuri Travels,Non A/C Seater / Sleeper (2+1),19:00,07h 00m,02:00,3.4,610,19
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mayuri Travels,Non A/C Seater / Sleeper (2+1),17:22,06h 33m,23:55,3.4,1340,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mayuri Travels,Non A/C Seater / Sleeper (2+1),19:00,04h 55m,23:55,3.4,999,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mayuri Travels,A/C Sleeper (2+1),21:58,05h 32m,03:30,3.4,1890,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mayuri Travels,A/C Seater / Sleeper (2+1),17:22,06h 33m,23:55,3.4,900,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,CVR Travels,Non A/C Seater / Sleeper (2+1),22:40,05h 35m,04:15,3.4,560,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Tulasi Tours and Travels,A/C Seater / Sleeper (2+1),14:50,08h 10m,23:00,3.3,1799,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Tulasi Tours and Travels,A/C Seater / Sleeper (2+1),15:40,05h 50m,21:30,3.3,2099,13
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,VARAHI TRAVELS,A/C Seater / Sleeper (2+1),22:33,05h 57m,04:30,3.3,620,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mozo travels,A/C Seater / Sleeper (2+1),20:10,08h 00m,04:10,3.3,680,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Puri Jagannadh Tours And Travels,Non A/C Seater / Sleeper (2+1),19:45,08h 00m,03:45,3.3,666,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mozo travels,A/C Sleeper (2+1),18:21,06h 49m,01:10,3.3,1400,18
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),20:35,06h 25m,03:00,3.3,1349,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Tulasi Tours and Travels,A/C Seater / Sleeper (2+1),16:20,06h 40m,23:00,3.3,999,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Ajay Bus,Non A/C Seater / Sleeper (2+1),22:30,05h 30m,04:00,3.2,525,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai RK Travels,Non A/C Seater / Sleeper (2+1),23:00,05h 35m,04:35,3.3,499,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),13:50,07h 25m,21:15,3.6,1850,11
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,NON A/C Sleeper (2+1),23:05,06h 10m,05:15,3.6,700,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Vasireddy Travels,A/C Seater / Sleeper (2+1),23:23,06h 07m,05:30,3.9,799,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KVR Tours and Travels,A/C Sleeper (2+1),21:00,05h 05m,02:05,3.1,969,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Venkteshwara Travels,A/C Sleeper (2+1),05:45,05h 00m,10:45,2.7,599,1
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai RK Travels,Non A/C Seater / Sleeper (2+1),22:35,05h 55m,04:30,3.1,670,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Orange Tours And Travels,A/C Seater / Sleeper (2+1),16:10,08h 20m,00:30,3.1,1200,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Sai Anjana Tours and Travels,Non A/C Seater / Sleeper (2+1),19:15,07h 37m,02:52,3.1,560,22
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Srinivasa Travels,Non A/C Seater / Sleeper (2+1),21:30,06h 35m,04:05,4.7,490,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KVR Tours and Travels,Non A/C Seater / Sleeper (2+1),22:30,04h 45m,03:15,3.1,778,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,A/C Sleeper (2+1),22:30,06h 00m,04:30,3.7,1100,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),20:15,05h 45m,02:00,4.1,560,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),23:00,06h 05m,05:05,2.5,690,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Vinay's Tours and Travels,A/C Sleeper (2+1),23:50,06h 05m,05:55,4.3,1888,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Venkata Padmavathi Travels,A/C Seater / Sleeper (2+1),21:40,07h 05m,04:45,3.3,696,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Vinay's Tours and Travels,A/C Sleeper (2+1),23:25,06h 40m,06:05,3.9,699,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Rainbow Tours And Travels,Non A/C Seater / Sleeper (2+1),22:14,06h 21m,04:35,3.0,670,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mythri Tours And Travels,A/C Sleeper (2+1),22:00,06h 05m,04:05,4.6,819,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Rainbow Tours And Travels,Non A/C Seater / Sleeper (2+1),22:35,05h 40m,04:15,3.0,670,39
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Jagan Travels,A/C Sleeper (2+1),20:00,06h 00m,02:00,2.9,1090,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,YNR Travels,A/C Sleeper (2+1),23:40,06h 30m,06:10,3.6,712,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Prasanna Travels,A/C Seater / Sleeper (2+1),23:40,05h 55m,05:35,2.6,500,23
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Siri Tours and Travels,Non A/C Seater / Sleeper (2+1),22:01,06h 14m,04:15,2.9,610,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Siri Tours and Travels,Non A/C Seater / Sleeper (2+1),21:58,06h 17m,04:15,2.9,610,46
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SAMANVI CITICONNECT,A/C Sleeper (2+1),21:55,06h 10m,04:05,2.9,1099,22
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Prasanna Travels,A/C Seater / Sleeper (2+1),23:55,05h 55m,05:50,2.3,500,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,06h 30m,04:00,2.9,1000,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sree Durga Kaveri Travels,A/C Sleeper (2+1),23:10,05h 20m,04:30,3.5,1416,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Krishna Travels (VGN),A/C Seater / Sleeper (2+1),23:05,06h 10m,05:15,3.9,500,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Ramana Tours And Travels,A/C Sleeper (2+1),17:55,07h 10m,01:05,2.8,1150,14
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),17:00,06h 15m,23:15,3.8,990,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,LIMOLINER,A/C Sleeper (2+1),20:55,07h 05m,04:00,2.8,1039,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SAMANVI CITICONNECT,A/C Sleeper (2+1),20:40,07h 40m,04:20,3.0,999,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Ramana Tours And Travels,Non A/C Seater / Sleeper (2+1),21:40,07h 20m,05:00,2.8,610,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,LVP Travels,A/C Seater / Sleeper (2+1),22:05,06h 05m,04:10,3.6,610,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Ajay Bus,Non A/C Seater / Sleeper (2+1),22:45,05h 55m,04:40,3.2,440,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),21:00,06h 30m,03:30,2.7,600,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),21:30,06h 30m,04:00,3.3,3500,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),17:05,05h 10m,22:15,3.3,1900,37
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Dasari Travels,Volvo Multi-Axle A/C Sleeper (2+1),23:05,05h 22m,04:27,2.7,941,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Dasari Travels,Non A/C Seater / Sleeper (2+1),21:30,07h 00m,04:30,3.3,665,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,VENKATA VYSHNAVI TRAVELS,Non A/C Seater / Sleeper (2+1),23:35,05h 55m,05:30,2.3,3999,41
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SVR Tours and Travels,Volvo A/C Sleeper (2+1),17:15,06h 30m,23:45,2.0,800,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Tranzindia Travels,Scania AC Multi Axle Sleeper (2+1),22:10,05h 15m,03:25,2.5,1299,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mayuri Travels,Non A/C Seater / Sleeper (2+1),19:48,06h 12m,02:00,2.7,610,16
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),22:20,06h 00m,04:20,2.7,990,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Srivastav Travels,Bharat Benz A/C Sleeper (2+1),22:30,05h 30m,04:00,1.6,740,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Morning Star Travels,A/C Sleeper (2+1),22:20,05h 35m,03:55,2.7,1190,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Neelachal Travels,A/C Seater / Sleeper (2+1),17:30,05h 15m,22:45,4.5,1000,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Navayuga Travels,NON AC Seater / Sleeper 2+1,22:30,05h 40m,04:10,4.3,1330,41
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Jayanthi Travels,A/C Sleeper (1+2),20:55,06h 55m,03:50,4.2,999,22
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,Non A/C Seater / Sleeper (2+1),20:00,06h 30m,02:30,2.5,1060,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,BSR Tours And Travels,A/C Sleeper (2+1),18:00,07h 50m,01:50,4.2,980,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),19:15,07h 10m,02:25,4.2,620,20
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Rama Travels,Non A/C Seater / Sleeper (2+1),21:45,06h 30m,04:15,4.1,610,22
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,LVP Travels,Non A/C Seater / Sleeper (2+1),21:30,06h 55m,04:25,4.0,580,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Surya Dream Liner,NON A/C Sleeper (2+1),22:58,06h 12m,05:10,2.2,3000,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Yolo Bus,A/C Sleeper (2+1),23:26,06h 38m,06:04,4.0,699,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Srinivasa Travels,A/C Seater / Sleeper (2+1),22:40,06h 10m,04:50,4.0,2000,40
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mahi Trans Solutions,A/C Sleeper (2+1),22:40,05h 35m,04:15,3.9,890,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mahi Trans Solutions,Non A/C Seater / Sleeper (2+1),22:15,06h 00m,04:15,3.9,560,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SREE KARA TRAVELS,Non A/C Seater / Sleeper (2+1),22:05,06h 10m,04:15,3.8,610,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SS Prasanna Travels,A/C Seater (2+2),23:50,05h 45m,05:35,1.3,3999,40
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mahi Trans Solutions,Non A/C Seater / Sleeper (2+1),22:00,06h 15m,04:15,2.5,560,37
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SRI SAI BALAJI TOURS AND TRAVELS,A/C Seater / Sleeper (2+1),14:45,07h 40m,22:25,3.7,1599,1
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Virat Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:30,06h 30m,05:00,3.7,1050,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Virat Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:15,05h 50m,03:05,3.7,1050,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SANDHYA TRAVELS,Bharat Benz A/C Sleeper (2+1),23:05,06h 10m,05:15,3.6,2755,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),14:30,06h 45m,21:15,3.6,2190,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Atluri Travels,Non A/C Seater / Sleeper (2+1),22:18,05h 32m,03:50,3.6,777,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,DMR Travels,A/C Sleeper (2+1),21:16,06h 24m,03:40,3.5,4555,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Sai Balaji Travels,A/C Seater / Sleeper (2+1),21:35,06h 05m,03:40,3.4,999,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Komali Travels,A/C Seater / Sleeper (2+1),22:25,05h 35m,04:00,3.4,610,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sri Sai Balaji Travels,A/C Seater / Sleeper (2+1),18:45,06h 15m,01:00,3.4,3999,42
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Godavari Travels,Non A/C Seater / Sleeper (2+1),21:30,06h 30m,04:00,3.4,610,33
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Puri Jagannadh Tours And Travels,Non A/C Seater / Sleeper (2+1),19:30,07h 15m,02:45,3.3,666,32
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mozo travels,A/C Sleeper (2+1),20:21,06h 19m,02:40,3.3,1290,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Royal Varma Travels,Non A/C Seater / Sleeper (2+1),22:30,06h 20m,04:50,3.3,800,39
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Mozo travels,A/C Seater / Sleeper (2+1),22:45,06h 30m,05:15,3.3,699,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SVM Tours And Travels,Non A/C Seater / Sleeper (2+1),22:35,05h 45m,04:20,3.2,999,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Ajay Bus,Non A/C Seater / Sleeper (2+1),22:45,05h 45m,04:30,3.2,440,13
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Srivastav Travels,NON A/C Sleeper (2+1),22:30,05h 30m,04:00,3.1,759,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KVR Tours and Travels,A/C Sleeper (2+1),20:30,05h 35m,02:05,3.1,2850,31
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Rainbow Tours And Travels,A/C Seater/Sleeper (2+1),22:15,05h 15m,03:30,3.0,780,27
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Meghana Travels,Non A/C Seater / Sleeper (2+1),22:45,05h 40m,04:25,2.9,600,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Meghana Travels,A/C Seater / Sleeper (2+1),22:40,06h 05m,04:45,2.9,650,39
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,J GAGANA TRAVELS,A/C Seater / Sleeper (2+1),21:15,06h 30m,03:45,2.9,559,28
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SJR TRAVELS,Non A/C Seater / Sleeper (2+1),13:45,06h 55m,20:40,2.8,1850,39
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,MY YATRA BUS,A/C Sleeper (2+1),21:05,05h 40m,02:45,2.8,3000,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Dasari Travels,Non A/C Seater / Sleeper (2+1),22:45,05h 20m,04:05,2.8,665,35
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SVN TOURS & TRAVELS,NON A/C Semi Sleeper / Sleeper (2+1),23:00,05h 00m,04:00,2.7,2490,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SVN TOURS & TRAVELS,A/C Semi Sleeper / Sleeper (2+1),23:00,05h 00m,04:00,2.7,1000,25
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SVN TOURS & TRAVELS,A/C Semi Sleeper / Sleeper (2+1),22:30,06h 12m,04:42,2.7,713,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sree Raghavendra Travels,NON A/C Semi Sleeper (2+1),23:30,05h 30m,05:00,2.5,2999,1
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Tranzindia Travels,Bharat Benz A/C Sleeper (2+1),23:05,05h 10m,04:15,2.5,1199,22
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Tranzindia Travels,Bharat Benz A/C Sleeper (2+1),20:45,05h 15m,02:00,2.5,1249,18
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,NON AC Seater / Sleeper 2+1,21:30,07h 00m,04:30,2.5,700,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,Non A/C Seater / Sleeper (2+1),18:00,08h 00m,02:00,2.5,780,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,S S N L Travels,A/C Seater / Sleeper (2+1),23:40,05h 40m,05:20,2.5,999,41
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,KKaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),18:00,08h 00m,02:00,2.5,1700,34
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Tranzindia Travels,Scania AC Multi Axle Sleeper (2+1),20:10,06h 20m,02:30,2.5,1249,21
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,DHANUNJAYA TRAVELS,Bharat Benz A/C Sleeper (2+1),22:30,04h 00m,02:30,2.2,5000,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Elegance Tours And Travels Pvt Ltd,Bharat Benz A/C Sleeper (2+1),21:30,05h 15m,02:45,1.9,1300,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Elegance Tours And Travels Pvt Ltd,Bharat Benz A/C Sleeper (2+1),16:10,05h 20m,21:30,1.9,2550,29
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,NEW DHEERAJ TOURS AND TRAVELS,A/C Sleeper (2+1),22:55,04h 05m,03:00,1.9,2000,36
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Elegance Tours And Travels Pvt Ltd,Bharat Benz A/C Sleeper (2+1),21:30,05h 15m,02:45,1.9,1450,26
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Hriday Tours & Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:45,05h 15m,03:00,1.7,950,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Hriday Tours & Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:45,04h 45m,03:30,1.7,1500,24
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Durga Travels,A/C Sleeper (2+1),23:05,05h 55m,05:00,1.6,5000,1
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),21:30,07h 00m,04:30,1.0,2000,41
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Sai Sri Krishna Travels,A/C Seater / Sleeper (2+1),22:35,05h 55m,04:30,1050,1050,30
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Elegance Tours And Travels Pvt Ltd,Bharat Benz A/C Sleeper (2+1),15:40,07h 05m,22:45,3000,3000,36
