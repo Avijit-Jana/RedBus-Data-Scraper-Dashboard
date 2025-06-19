@@ -1,15 +1,52 @@
-# Code of Conduct
+<h1 align="center">📋 Code of Conduct</h1>
 
-## Purpose
-This repository is a place for learning, sharing, and contributing to the development of quality software. The purpose of this Code of Conduct is to ensure that all contributions are done with the understanding of the content and context. Simply copying code without comprehension hinders both personal growth and the integrity of the project.
+Welcome to our community! To foster an open, collaborative, and respectful environment, all participants are expected to adhere to the following guidelines.
 
-## Guidelines for Contributions
-* Understand Before Using: All contributors must make a genuine effort to understand the code before copying or using it. This promotes learning and prevents misuse of the repository's contents.
-* No Blind Copy-Pasting: Simply copying code without understanding its purpose, functionality, or implications is strongly discouraged. Contributors should take the time to read and comprehend how the code works.
-* Ask Questions: If you're unsure about a piece of code, please open a discussion or issue. Understanding the 'why' behind the code is more important than rushing to copy it.
-* Documentation Required: If you contribute, ensure your code is well-documented, so others can follow your thought process and easily understand what your contribution does.
+---
 
-## Respectful Communication
-* Constructive Feedback: When offering feedback or making changes, do so respectfully. Provide constructive criticism that helps others learn and improve.
-* Inclusive Language: Please refrain from using language that is disrespectful, discriminatory, or harmful to any community.
-Collaborate Openly: The repository is intended for shared growth. Be welcoming to new contributors and supportive of learners.
+## 🚀 Purpose
+
+This repository is dedicated to learning, sharing, and building high‑quality data science projects together. Our Code of Conduct exists to:
+
+- **Encourage Understanding:** Promote deep comprehension of code rather than blind reuse.
+- **Ensure Quality:** Protect the integrity and maintainability of the project.
+- **Support Growth:** Foster an educational atmosphere where everyone can improve their skills.
+
+---
+
+## 📝 Contribution Guidelines
+
+1. **Understand Before Implementing**
+   - Take the time to read, test, and grasp any code before integrating it.
+2. **No Blind Copy‑Paste**
+   - Copying code without understanding its intent or side effects is discouraged. Aim to learn and adapt.
+3. **Ask and Discuss**
+   - Unsure how something works? Open an issue or discussion. Questions are welcomed!
+4. **Document Thoroughly**
+   - Provide clear comments and README updates that explain _what_ your code does and _why_.
+5. **Review Before Merge**
+   - Ensure pull requests include meaningful descriptions, proper tests, and adhere to style guidelines.
+
+---
+
+## 💬 Communication Standards
+
+- **Be Respectful:** Offer constructive feedback, avoid personal attacks, and focus on solutions.
+- **Use Inclusive Language:** Steer clear of terms that could exclude or offend others.
+- **Be Welcoming:** Encourage new contributors; share knowledge and resources generously.
+
+---
+
+## 📈 Enforcement
+
+Maintainers reserve the right to moderate discussions and contributions. Violations of this Code of Conduct may result in:
+
+- Warnings and guidance
+- Removal of offending content
+- Temporary or permanent bans from the project
+
+If you witness or experience unacceptable behavior, please report it by opening an issue or [contact me](https://www.linkedin.com/in/avijit-jana/) directly.
+
+---
+
+Thank you for helping us build a collaborative, educational, and respectful community! 🎉
