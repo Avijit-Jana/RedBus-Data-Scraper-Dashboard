@@ -43,7 +43,7 @@ trio==0.30.0
 trio-websocket==0.12.2
 typing_extensions==4.13.2
 tzdata==2025.2
-urllib3==2.4.0
+urllib3==2.5.0
 watchdog==6.0.0
 websocket-client==1.8.0
 wsproto==1.2.0
